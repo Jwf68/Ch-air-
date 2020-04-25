@@ -23,7 +23,7 @@ https://tribun.cloud/index.php/s/dGqFQpQb3aDSNKJ
 
 
 Version 2
-Presentation video and more: https://tribun.cloud/index.php/s/mzqPWbDTTHnb4xj?path=%2FCh(air)%2FCh(air)-V2 
+Presentation video and more: https://photos.app.goo.gl/yRxQ9RMRdP5GabSL6 
 Also see the trig explanation in video of Version 3 in link below
 
 Version 3
