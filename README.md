@@ -18,15 +18,10 @@ For version 3 we are developing a cirquit board that adds functionality, lower c
 Videos of prototype operating
 
 Version 1
-https://photos.app.goo.gl/ovANB7gD7MnV3Jye7
-https://tribun.cloud/index.php/s/dGqFQpQb3aDSNKJ
-
-
-Version 2
 Presentation video and more: https://photos.app.goo.gl/yRxQ9RMRdP5GabSL6 
 Also see the trig explanation in video of Version 3 in link below
 
-Version 3
+Version 2
 ... in progress
 
 Now here are three simply shot videos where i show how the trig works, and also other settings.
